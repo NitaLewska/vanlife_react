@@ -1,0 +1,18 @@
+footer {
+    height: 4.6875rem;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    background: #252525;
+    color: #AAA;
+    text-align: center;
+    font-family: Inter;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 163.733%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

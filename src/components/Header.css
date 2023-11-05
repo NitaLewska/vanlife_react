@@ -1,0 +1,35 @@
+header {
+    height: 7rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    background: #FFF7ED;
+    align-items: center;
+    padding-inline: 1.625rem;
+}
+
+header .main_logo {
+    color: #000;
+    font-family: Inter;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 158.842%;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+    color: #4D4D4D;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 143.267%;
+}
+
+header nav a:hover{
+    color: #000;
+}
